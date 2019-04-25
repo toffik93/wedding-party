@@ -4,4 +4,4 @@ CSS3
 
 Live version:
 
-https://www.elektroda.pl/rtvforum/topic2630276.html
+https://toffik93.github.io/wedding-party/
